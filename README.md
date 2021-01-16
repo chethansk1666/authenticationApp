@@ -1,6 +1,9 @@
-# rider_app
+## rider_app
 
-A new Flutter application.
+A new Flutter application.This app consists of following features
+- Login and registration with firebase authentication
+- In main page it has dashboard with attached google map
+- map shows your current location
 
 ## Getting Started
 
